@@ -24,8 +24,8 @@ clock=pygame.time.Clock()
 cordX=90
 cordY=250
 #velocidad
-velocidadX=6
-velocidadY=6
+velocidadX=3
+velocidadY=3
 #cordenadasVariables
 i=0
 pygame.draw.line(pantalla,azul,(80,60),(200,300))
